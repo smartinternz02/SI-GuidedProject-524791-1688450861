@@ -1,0 +1,22 @@
+# SI-GuidedProject-524791-1688450861
+Unveiling Market Insights : Analyzing Spending Behavior and Identifying Opportunities for Growth
+
+# Demo Video Link
+https://drive.google.com/file/d/1K2eFDD8TEXpbihc9RHpISLcmYAhwQV_q/view?usp=sharing
+
+# Dataset link
+https://www.kaggle.com/datasets/thedevastator/analyzing-customer-spending-habits-to-improve-sa
+
+# Project File Link
+https://drive.google.com/file/d/1mP6Av1QzQj93Bf4XWb9sheH0qLIaiiMK/view?usp=sharing
+
+# Website Link
+https://swati1901.github.io/Data-Analytics/
+
+# Link for the Dashboard
+https://public.tableau.com/views/Project_DA1_Dashboard/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link
+
+# Link of the Story
+https://public.tableau.com/views/Project_DA_Story1/Story1?:language=en-GB&:display_count=n&:origin=viz_share_link
+
+
